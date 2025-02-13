@@ -1,8 +1,6 @@
 # luogu
 洛谷测试点文件生成工具
 # 测试点文件生成工具
-![Uploading image.png…]()
-
 
 ## 项目简介
 
